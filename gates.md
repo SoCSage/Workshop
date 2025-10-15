@@ -1,1 +1,1 @@
-Favorite gate: TBD
+Favorite gate: XOR
